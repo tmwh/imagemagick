@@ -1,3 +1,6 @@
-## v0.2.2:
+Imagemagick CHANGELOG
+=====================
 
-* Fixes COOK-662
+v0.2.2
+----------
+- Fixes COOK-662
